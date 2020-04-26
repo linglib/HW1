@@ -1,0 +1,212 @@
+<books>
+  <book>
+    <Price>None</Price>
+    <Name>I Like Big Data And I Cannot Lie: Computer Data Science Journal Blan...</Name>
+    <Format>None</Format>
+    <Author>None</Author>
+    <Condition>Temporarily Unavailable</Condition>
+  </book>
+  <book>
+    <Price>14.59</Price>
+    <Name>Weapons of Math Destruction: How Big Data Increases Inequality and T...</Name>
+    <Format>Hardcover</Format>
+    <Author>Cathy O'Neil</Author>
+    <Condition>Very Good</Condition>
+  </book>
+  <book>
+    <Price>8.59</Price>
+    <Name>Everybody Lies: Big Data, New Data, and What the Internet Can Tell U...</Name>
+    <Format>Hardcover</Format>
+    <Author>Seth Stephens-Davidowitz</Author>
+    <Condition>Good</Condition>
+  </book>
+  <book>
+    <Price>6.49</Price>
+    <Name>Big Data</Name>
+    <Format>Paperback</Format>
+    <Author>None</Author>
+    <Condition>Temporarily Unavailable</Condition>
+  </book>
+  <book>
+    <Price>20.87</Price>
+    <Name>Big Data. Implementation of a Big Data Based Mobile Application</Name>
+    <Format>Paperback</Format>
+    <Author>None</Author>
+    <Condition>New</Condition>
+  </book>
+  <book>
+    <Price>25.63</Price>
+    <Name>Big Data</Name>
+    <Format>Hardcover</Format>
+    <Author>None</Author>
+    <Condition>New</Condition>
+  </book>
+  <book>
+    <Price>166.08</Price>
+    <Name>The Politics and Policies of Big Data: Big Data, Big Brother?</Name>
+    <Format>Hardcover</Format>
+    <Author>None</Author>
+    <Condition>New</Condition>
+  </book>
+  <book>
+    <Price>30.69</Price>
+    <Name>Life After Google: The Fall of Big Data and the Rise of the Blockcha...</Name>
+    <Format>Hardcover</Format>
+    <Author>George Gilder</Author>
+    <Condition>Very Good</Condition>
+  </book>
+  <book>
+    <Price>265.26</Price>
+    <Name>Big Data Analytics</Name>
+    <Format>Hardcover</Format>
+    <Author>None</Author>
+    <Condition>New</Condition>
+  </book>
+  <book>
+    <Price>67.82</Price>
+    <Name>The Influences of Big Data Analytics: Is Big Data a Disruptive Techn...</Name>
+    <Format>Paperback</Format>
+    <Author>Joseph Aluya</Author>
+    <Condition>New</Condition>
+  </book>
+  <book>
+    <Price>150.04</Price>
+    <Name>Big Data (Criminology at the Edge)</Name>
+    <Format>Hardcover</Format>
+    <Author>None</Author>
+    <Condition>New</Condition>
+  </book>
+  <book>
+    <Price>None</Price>
+    <Name>Big Data</Name>
+    <Format>None</Format>
+    <Author>None</Author>
+    <Condition>Temporarily Unavailable</Condition>
+  </book>
+  <book>
+    <Price>123.93</Price>
+    <Name>Big Data Security</Name>
+    <Format>Hardcover</Format>
+    <Author>None</Author>
+    <Condition>New</Condition>
+  </book>
+  <book>
+    <Price>38.49</Price>
+    <Name>Big Data Computing</Name>
+    <Format>Hardcover</Format>
+    <Author>None</Author>
+    <Condition>Like New</Condition>
+  </book>
+  <book>
+    <Price>14.59</Price>
+    <Name>Big Data Analyst</Name>
+    <Format>Hardcover</Format>
+    <Author>None</Author>
+    <Condition>Very Good</Condition>
+  </book>
+  <book>
+    <Price>7.59</Price>
+    <Name>Big Data</Name>
+    <Format>Library Binding</Format>
+    <Author>Kristin Fontichiaro</Author>
+    <Condition>Good</Condition>
+  </book>
+  <book>
+    <Price>None</Price>
+    <Name>Big Data</Name>
+    <Format>None</Format>
+    <Author>Anil Maheshwari</Author>
+    <Condition>Temporarily Unavailable</Condition>
+  </book>
+  <book>
+    <Price>167.00</Price>
+    <Name>Big Data Management</Name>
+    <Format>Hardcover</Format>
+    <Author>None</Author>
+    <Condition>New</Condition>
+  </book>
+  <book>
+    <Price>None</Price>
+    <Name>Handbook of Big Data</Name>
+    <Format>None</Format>
+    <Author>None</Author>
+    <Condition>Temporarily Unavailable</Condition>
+  </book>
+  <book>
+    <Price>17.69</Price>
+    <Name>Big Data Analytics: Turning Big Data Into Big Money</Name>
+    <Format>Hardcover</Format>
+    <Author>Frank J. Ohlhorst</Author>
+    <Condition>Very Good</Condition>
+  </book>
+  <book>
+    <Price>None</Price>
+    <Name>Eat Sleep Big Data Repeat: Big Data Notebook for Engineers, Data Sci...</Name>
+    <Format>None</Format>
+    <Author>None</Author>
+    <Condition>Temporarily Unavailable</Condition>
+  </book>
+  <book>
+    <Price>137.79</Price>
+    <Name>Big Data in Engineering Applications (Studies in Big Data)</Name>
+    <Format>Paperback</Format>
+    <Author>None</Author>
+    <Condition>New</Condition>
+  </book>
+  <book>
+    <Price>23.96</Price>
+    <Name>Subtle Challenges of Big Data: Diving Into Big Data Epistemic Challe...</Name>
+    <Format>Paperback</Format>
+    <Author>Abdallah Bari</Author>
+    <Condition>New</Condition>
+  </book>
+  <book>
+    <Price>98.77</Price>
+    <Name>Mobile Big Data (Wireless Networks)</Name>
+    <Format>Paperback</Format>
+    <Author>None</Author>
+    <Condition>New</Condition>
+  </book>
+  <book>
+    <Price>166.81</Price>
+    <Name>Big Data for the Greater Good (Studies in Big Data)</Name>
+    <Format>Paperback</Format>
+    <Author>None</Author>
+    <Condition>New</Condition>
+  </book>
+  <book>
+    <Price>147.56</Price>
+    <Name>The Ethics of Biomedical Big Data</Name>
+    <Format>Hardcover</Format>
+    <Author>None</Author>
+    <Condition>New</Condition>
+  </book>
+  <book>
+    <Price>137.65</Price>
+    <Name>Mobile Big Data (Wireless Networks)</Name>
+    <Format>Hardcover</Format>
+    <Author>None</Author>
+    <Condition>New</Condition>
+  </book>
+  <book>
+    <Price>56.35</Price>
+    <Name>Big Data Analytics</Name>
+    <Format>Paperback</Format>
+    <Author>Venkat Ankam</Author>
+    <Condition>New</Condition>
+  </book>
+  <book>
+    <Price>147.37</Price>
+    <Name>Big Data Analytics: A Management Perspective (Studies in Big Data)</Name>
+    <Format>Paperback</Format>
+    <Author>None</Author>
+    <Condition>New</Condition>
+  </book>
+  <book>
+    <Price>157.28</Price>
+    <Name>Guide to Big Data Applications (Studies in Big Data)</Name>
+    <Format>Paperback</Format>
+    <Author>None</Author>
+    <Condition>New</Condition>
+  </book>
+</books>
